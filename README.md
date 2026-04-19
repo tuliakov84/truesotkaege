@@ -1,2 +1,0 @@
-# truesotkaege
-repo site
